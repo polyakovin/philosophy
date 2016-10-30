@@ -9,4 +9,4 @@
 - [Шпаргалка](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet)
 - [Официальный сайт](http://daringfireball.net/projects/markdown/)
 
-Материалы (звукозаписи) лекций и семинаров находятся в гугл-диске.
+Материалы (звукозаписи) лекций и семинаров: https://drive.google.com/open?id=0By-rYPzw7raEampzQ291cWwwcFE
