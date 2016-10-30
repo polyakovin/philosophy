@@ -10,3 +10,5 @@
 - [Официальный сайт](http://daringfireball.net/projects/markdown/)
 
 Материалы (звукозаписи) лекций и семинаров: https://drive.google.com/open?id=0By-rYPzw7raEampzQ291cWwwcFE
+
+Настоятельно советую покурить (к вопросу о рассудке и разуме): http://scepsis.net/library/id_426.html
