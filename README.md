@@ -24,3 +24,4 @@
 Материалы:
 - [Звукозаписи лекций и семинаров](https://drive.google.com/open?id=0By-rYPzw7raEampzQ291cWwwcFE),
 - [К вопросу о рассудке и разуме](http://scepsis.net/library/id_426.html).
+- [Вопросы к зачёту](https://mipt.ru/education/chair/philosophy/exams/asp_fachet/zach_semenov.php)
