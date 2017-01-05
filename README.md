@@ -30,8 +30,8 @@
 - [Вопросы к зачёту](https://mipt.ru/education/chair/philosophy/exams/asp_fachet/zach_semenov.php)
 
 ## Составители конспектов:
-- [Кузякин В.В.](https://vk.com/id179629971)
-- [Поляков И.Н.](https://vk.com/igor.polyakov)
+- [Василий Кузякин](https://vk.com/id179629971)
+- [Игорь Поляков](https://vk.com/igor.polyakov)
 
 ## О процедуре конспектирования
 Документы форматируются разметкой Markdown.
