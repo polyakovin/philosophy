@@ -14,7 +14,7 @@
   5. [Проблема материального и идеального](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_5.md).
   6. [Теория "символов" Германа Гельмгольца и иероглифический материализм](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_6.md).
 
-и [лекций](https://github.com/noggatur/philosophy/blob/master/Lectures/):
+и [лекций](https://github.com/noggatur/philosophy/blob/master/Lectures/) различных преподавателей кафедры философии МФТИ:
   1. [(Скворчевский)](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_1.md).
   2. [(Фурсов)](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_2.md).
   3. [()](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_3.md).
