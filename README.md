@@ -1,6 +1,12 @@
 # Лекции и семинары по истории и философии науки
 
-В этом проекте есть 2 папки:
+Конспекты содержат материал, основанный [на лекциях по истории и философии науки](https://drive.google.com/open?id=0By-rYPzw7raEampzQ291cWwwcFE), записанных их слушателями.
+Поскольку людям (коими являются лектора и их слушателе) свойственно ошибаться, то этот материал стоит воспринимать с осторожностью, а его истинность ставить под сомнение.
+
+Тем не менее, авторы конспектов старались отразить суть предмета максимально верно и лаконично благодаря многочисленной проработке материала.
+Поэтому если у читателей конспекта появятся пожелания к улучшению или дополнению конспектов, то мы им за это очень благодарны и просим внести соответствующие корректировки в копии проекта (fork) и предложить свои изменения (pull request).
+
+В этом проекте есть две папки:
 - с [лекциями](https://github.com/noggatur/philosophy/blob/master/Lectures/):
   - [1. (Скворчевский)](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_1.md).
   - [2. (Фурсов)](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_2.md).
@@ -13,8 +19,8 @@
   - [2. Главные и дополнительные направления философии](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_2.md).
   - [3. Философия и религия](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_3.md).
   - [4. Филосовские проблемы](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_4.md).
-  - [5. ](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_5.md).
-  - [6. ](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_6.md).
+  - [5. Проблема материального и идеального](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_5.md).
+  - [6. Теория "символов" Германа Гельмгольца и иероглифический материализм](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_6.md).
 
 Документы форматируются разметкой Markdown.
 При наборе полезно обращаться к двум источникам:
