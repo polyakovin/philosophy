@@ -9,6 +9,7 @@
 
 ## О конспектах
 В этом проекте приведены конспекты [семинарских занятий](https://github.com/noggatur/philosophy/blob/master/Seminars/) кандидата философских наук, доктора исторических наук, профессора Семёнова Юрия Ивановича:
+
 1. [Предмет философии, её основные понятия и место в системе человеческого знания](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_1.md)
 2. [Главные и дополнительные направления философии](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_2.md)
 3. [Философия и религия](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_3.md)
@@ -18,6 +19,7 @@
 7. [Условные рефлексы. Сущность биоидеального](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_7.md)
 
 и [лекций](https://github.com/noggatur/philosophy/blob/master/Lectures/) различных преподавателей кафедры философии МФТИ:
+
 1. [(Скворчевский)](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_1.md)
 2. [(Фурсов)](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_2.md)
 3. [()](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_3.md)
