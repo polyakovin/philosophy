@@ -8,7 +8,7 @@
 Поэтому если у читателей конспекта появятся пожелания к улучшению или дополнению конспектов, то мы им за это очень благодарны и просим внести соответствующие корректировки в копии проекта (fork) и предложить свои изменения (pull request).
 
 ## О конспектах
-В этом проекте приведены конспекты [семинарских занятий](https://github.com/noggatur/philosophy/blob/master/Seminars/) кандидата философских наук, доктора исторических наук, профессора Семёнова Юрия Ивановича:
+В этом проекте приведены конспекты [семинарских занятий](https://github.com/noggatur/philosophy/blob/master/Seminars/) кандидата философских наук, доктора исторических наук, профессора [Семёнова Юрия Ивановича](https://ru.wikipedia.org/wiki/Семёнов,_Юрий_Иванович):
 
 1. [Предмет философии, её основные понятия и место в системе человеческого знания](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_1.md)
 2. [Главные и дополнительные направления философии](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_2.md)
@@ -22,12 +22,12 @@
 
 и [лекций](https://github.com/noggatur/philosophy/blob/master/Lectures/) различных преподавателей кафедры философии МФТИ:
 
-1. [(Скворчевский)](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_1.md)
-2. [(Фурсов)](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_2.md)
-3. [()](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_3.md)
-4. [()](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_4.md)
-5. [()](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_5.md)
-6. [(здесь и далее Скворчевский)](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_6.md)
+1. [лекция](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_1.md) ([Скворчевский К.А.](http://wikimipt.org/wiki/Скворчевский_Константин_Анатольевич))
+2. [лекция](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_2.md) ([Фурсов А.А.](http://istina.msu.ru/profile/a-lexx/))
+3. [лекция](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_3.md)
+4. [лекция](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_4.md)
+5. [лекция](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_5.md)
+6. [лекция](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_6.md) (здесь и далее [Скворчевский К.А.](http://wikimipt.org/wiki/Скворчевский_Константин_Анатольевич))
 
 ## Дополнительные материалы:
 - [Звукозаписи лекций и семинаров](https://drive.google.com/open?id=0By-rYPzw7raEampzQ291cWwwcFE)
