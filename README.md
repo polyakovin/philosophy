@@ -19,6 +19,7 @@
 7. [Условные рефлексы. Сущность биоидеального](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_7.md)
 8. [Сущность биоидеального. Пространство и время как упорядочение мира для нас и мира самого в себе](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_8.md)
 9. [Открытие умозримого и умозрения](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_9.md)
+10. [Проблема духа и тела. Мышление и его виды](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_10.md)
 
 и [лекций](https://github.com/noggatur/philosophy/blob/master/Lectures/) различных преподавателей кафедры философии МФТИ:
 
