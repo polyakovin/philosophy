@@ -21,7 +21,7 @@
 9. [Открытие умозримого и умозрения](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_9.md)
 10. [Проблема духа и тела. Мышление и его виды](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_10.md)
 11. [Мышление и его виды. Разумное мышление и наука](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_11.md)
-12. [Объективные процессы](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_12.md)
+12. [Разумное мышление и наука](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_12.md)
 
 и [лекций](https://github.com/noggatur/philosophy/blob/master/Lectures/) различных преподавателей кафедры философии МФТИ:
 
