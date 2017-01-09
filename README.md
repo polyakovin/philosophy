@@ -34,8 +34,10 @@
 
 ## Дополнительные материалы:
 - [Звукозаписи лекций и семинаров](https://drive.google.com/open?id=0By-rYPzw7raEampzQ291cWwwcFE)
-- [К вопросу о рассудке и разуме](http://scepsis.net/library/id_426.html)
-- [Вопросы к зачёту](https://mipt.ru/education/chair/philosophy/exams/asp_fachet/zach_semenov.php)
+- [Конспект лекций по философии науки прочитанных Ю.И. Семёновым в 2005–2006 учебном году](https://philosophy.ivlis.com/)
+- [Статьи Ю.И. Семёнова из научно-просветительского журнала "Скепсис"](http://scepsis.net/authors/id_8.html)
+  + [К вопросу о рассудке и разуме](http://scepsis.net/library/id_426.html)
+- [Вопросы к зачёту у Ю.И. Семёнова](https://mipt.ru/education/chair/philosophy/exams/asp_fachet/zach_semenov.php)
 
 ## Составители конспектов:
 - [Василий Кузякин](https://vk.com/id179629971)
