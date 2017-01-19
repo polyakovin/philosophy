@@ -22,6 +22,7 @@
 10. [Проблема духа и тела. Мышление и его виды](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_10.md)
 11. [Мышление и его виды. Разумное мышление и наука](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_11.md)
 12. [Разумное мышление и наука](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_12.md)
+13. [Вопрос о природе понятий. Проблема общего и отдельного](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_13.md)
 
 и [лекций](https://github.com/noggatur/philosophy/blob/master/Lectures/) различных преподавателей кафедры философии МФТИ:
 
@@ -34,11 +35,15 @@
 
 ## Дополнительные материалы:
 - [Звукозаписи лекций и семинаров](https://drive.google.com/open?id=0By-rYPzw7raEampzQ291cWwwcFE)
+- _Семенов Ю.И._ Введение в науку философии. Книга 1. Предмет философии, ее основные понятия и место в системе  человеческого знания. — М., Издательство URSS. 2013; 2015.
+- _Семенов Ю.И._ Введение в науку философии. Книга 2. Вечные проблемы философии. — М., Издательство URSS. 2013; 2015.
 - [Конспект лекций по философии науки, прочитанных Ю.И. Семёновым в 2005–2006 учебном году для 5-го курса](https://philosophy.ivlis.com/)
 - [Статьи Ю.И. Семёнова из научно-просветительского журнала "Скепсис"](http://scepsis.net/authors/id_8.html)
   + [К вопросу о рассудке и разуме](http://scepsis.net/library/id_426.html)
   + [Некоторые статьи на сайте МФТИ](https://mipt.ru/education/chair/philosophy/publications/works/semenov/)
 - [Вопросы к зачёту у Ю.И. Семёнова](https://mipt.ru/education/chair/philosophy/exams/asp_fachet/zach_semenov.php)
+  + [Ответы](https://github.com/noggatur/philosophy/blob/master/Seminars/Questions.md)
+  + [Определения](https://github.com/noggatur/philosophy/blob/master/Seminars/Definitions.md)
 
 ## Составители конспектов:
 - [Василий Кузякин](https://vk.com/id179629971)
