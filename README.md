@@ -46,8 +46,8 @@
   + [Определения](https://github.com/noggatur/philosophy/blob/master/Seminars/Definitions.md)
 
 ## Составители конспектов:
-- [Василий Кузякин](https://vk.com/id179629971)
 - [Игорь Поляков](https://vk.com/igor.polyakov)
+- [Василий Кузякин](https://vk.com/id179629971)
 
 ## О процедуре конспектирования
 Документы форматируются разметкой Markdown.
