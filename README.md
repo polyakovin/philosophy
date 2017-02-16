@@ -8,21 +8,21 @@
 Поэтому если у читателей конспекта появятся пожелания к улучшению или дополнению конспектов, то мы им за это очень благодарны и просим внести соответствующие корректировки в копии проекта (fork) и предложить свои изменения (pull request).
 
 ## О конспектах
-В этом проекте приведены конспекты [семинарских занятий](https://github.com/noggatur/philosophy/blob/master/Seminars/) к.ф.н., д.и.н., проф. [Семёнова Ю.И.](https://ru.wikipedia.org/wiki/Семёнов,_Юрий_Иванович):
+В этом проекте приведены конспекты [семинарских занятий](https://github.com/noggatur/philosophy/blob/master/Seminars/) к.ф.н., д.и.н., проф. [Семёнова Ю.И.](https://ru.wikipedia.org/wiki/Семёнов,_Юрий_Иванович) (галочкой отмечены конспекты, проверенные автором):
 
-1. [Предмет философии, её основные понятия и место в системе человеческого знания](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_1.md)
-2. [Главные и дополнительные направления философии](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_2.md)
-3. [Философия и религия](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_3.md)
-4. [Филосовские проблемы](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_4.md)
-5. [Проблема материального и идеального](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_5.md)
-6. [Теория "символов" Германа Гельмгольца и иероглифический материализм](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_6.md)
-7. [Условные рефлексы. Сущность биоидеального](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_7.md)
-8. [Сущность биоидеального. Пространство и время как упорядочение мира для нас и мира самого в себе](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_8.md)
-9. [Открытие умозримого и умозрения](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_9.md)
-10. [Проблема духа и тела. Мышление и его виды](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_10.md)
-11. [Мышление и его виды. Разумное мышление и наука](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_11.md)
-12. [Разумное мышление и наука](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_12.md)
-13. [Вопрос о природе понятий. Проблема общего и отдельного](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_13.md)
+1. [ ] [Предмет философии, её основные понятия и место в системе человеческого знания](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_1.md)
+2. [ ] [Главные и дополнительные направления философии](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_2.md)
+3. [ ] [Философия и религия](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_3.md)
+4. [ ] [Филосовские проблемы](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_4.md)
+5. [ ] [Проблема материального и идеального](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_5.md)
+6. [ ] [Теория "символов" Германа Гельмгольца и иероглифический материализм](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_6.md)
+7. [ ] [Условные рефлексы. Сущность биоидеального](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_7.md)
+8. [ ] [Сущность биоидеального. Пространство и время как упорядочение мира для нас и мира самого в себе](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_8.md)
+9. [ ] [Открытие умозримого и умозрения](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_9.md)
+10. [ ] [Проблема духа и тела. Мышление и его виды](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_10.md)
+11. [ ] [Мышление и его виды. Разумное мышление и наука](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_11.md)
+12. [ ] [Разумное мышление и наука](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_12.md)
+13. [ ] [Вопрос о природе понятий. Проблема общего и отдельного](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_13.md)
 
 и [лекций](https://github.com/noggatur/philosophy/blob/master/Lectures/) различных преподавателей кафедры философии МФТИ:
 
@@ -32,6 +32,14 @@
 4. [лекция](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_4.md)
 5. [лекция](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_5.md)
 6. [лекция](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_6.md) (здесь и далее [Скворчевский К.А.](http://wikimipt.org/wiki/Скворчевский_Константин_Анатольевич))
+7. [лекция](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_7.md)
+8. [лекция](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_8.md)
+9. [лекция](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_9.md)
+10. [лекция](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_10.md)
+11. [лекция](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_11.md)
+12. [лекция](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_12.md)
+13. [лекция](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_13.md)
+14. [Вопросы и ответы к экзамену по философии](https://github.com/noggatur/philosophy/blob/master/Lectures/Questions.md)
 
 ## Дополнительные материалы:
 - [Звукозаписи лекций и семинаров](https://drive.google.com/open?id=0By-rYPzw7raEampzQ291cWwwcFE)
