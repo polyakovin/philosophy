@@ -26,16 +26,16 @@
 
 и [лекций](https://github.com/noggatur/philosophy/blob/master/Lectures/) различных преподавателей кафедры философии МФТИ:
 
-1. [лекция](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_1.md) ([Скворчевский К.А.](http://wikimipt.org/wiki/Скворчевский_Константин_Анатольевич))
+1. [Проблема Джозефа Нидема](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_1.md) ([Скворчевский К.А.](http://wikimipt.org/wiki/Скворчевский_Константин_Анатольевич))
 2. [лекция](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_2.md) ([Фурсов А.А.](http://istina.msu.ru/profile/a-lexx/))
 3. [лекция](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_3.md)
 4. [лекция](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_4.md)
-5. [лекция](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_5.md)
+5. [Фрактальная геометрия в современной физике](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_5.md) ([Антонюк П.Н.](http://fn.bmstu.ru/tm-fs-11/79-fn-dep/vych-mat-mat-phys/general/prepods/465-fn11-antonyuk))
 6. [лекция](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_6.md) (здесь и далее [Скворчевский К.А.](http://wikimipt.org/wiki/Скворчевский_Константин_Анатольевич))
-7. [лекция](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_7.md)
-8. [лекция](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_8.md)
-9. [лекция](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_9.md)
-10. [лекция](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_10.md)
+7. [Истина и способы её обоснования](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_7.md)
+8. [Платон и Аристотель о способах доказательства истины](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_8.md)
+9. [Космология Аристотеля](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_9.md)
+10. [Наука Аристотеля и современная наука](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_10.md)
 11. [лекция](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_11.md)
 12. [лекция](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_12.md)
 13. [лекция](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_13.md)
