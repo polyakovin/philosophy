@@ -52,6 +52,7 @@
 - [Вопросы к зачёту у Ю.И. Семёнова](https://mipt.ru/education/chair/philosophy/exams/asp_fachet/zach_semenov.php)
   + [Ответы](https://github.com/noggatur/philosophy/blob/master/Seminars/Questions.md)
   + [Определения](https://github.com/noggatur/philosophy/blob/master/Seminars/Definitions.md)
+- [Материалы для подготовки к контрольной](https://vk.com/docs?oid=-35423597)
 
 ## Про разметку
 Документы форматируются разметкой Markdown.
