@@ -38,7 +38,7 @@
 10. [Наука Аристотеля и современная наука](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_10.md)
 11. [Неоплатонизм](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_11.md)
 12. [Появление христианства. Треугольник Августина](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_12.md)
-13. [лекция](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_13.md)
+13. [Научная революция нового времени](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_13.md)
 14. [Вопросы и ответы к экзамену по философии](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_14 (Questions).md)
 
 ## Дополнительные материалы:
