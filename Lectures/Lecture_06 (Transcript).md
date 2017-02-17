@@ -4,7 +4,7 @@
 >
 > 5 ноября 2016 г.
 >
-> [Запись лекции](https://drive.google.com/open?id=0B_ciiYZxHJLSaUtPTEgxZ2FWWUU)
+> [Запись лекции](https://drive.google.com/open?id=0B_ciiYZxHJLSZE1FSk5FVThxc0k)
 
 < 11 минут организационных вопросов >
 
