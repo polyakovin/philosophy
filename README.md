@@ -10,15 +10,15 @@
 ## О конспектах
 В этом проекте приведены конспекты [семинарских занятий](https://github.com/noggatur/philosophy/blob/master/Seminars/) к.ф.н., д.и.н., проф. [Семёнова Ю.И.](https://ru.wikipedia.org/wiki/Семёнов,_Юрий_Иванович) (галочкой отмечены конспекты, проверенные автором):
 
-1. [Предмет философии, её основные понятия и место в системе человеческого знания](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_1.md) &#10003;
-2. [Главные и дополнительные направления философии](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_2.md)
-3. [Философия и религия](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_3.md)
-4. [Филосовские проблемы](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_4.md)
-5. [Проблема материального и идеального](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_5.md)
-6. [Теория "символов" Германа Гельмгольца и иероглифический материализм](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_6.md)
-7. [Условные рефлексы. Сущность биоидеального](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_7.md)
-8. [Сущность биоидеального. Пространство и время как упорядочение мира для нас и мира самого в себе](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_8.md)
-9. [Открытие умозримого и умозрения](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_9.md)
+1. [Предмет философии, её основные понятия и место в системе человеческого знания](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_01.md) &#10003;
+2. [Главные и дополнительные направления философии](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_02.md)
+3. [Философия и религия](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_03.md)
+4. [Филосовские проблемы](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_04.md)
+5. [Проблема материального и идеального](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_05.md)
+6. [Теория "символов" Германа Гельмгольца и иероглифический материализм](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_06.md)
+7. [Условные рефлексы. Сущность биоидеального](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_07.md)
+8. [Сущность биоидеального. Пространство и время как упорядочение мира для нас и мира самого в себе](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_08.md)
+9. [Открытие умозримого и умозрения](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_09.md)
 10. [Проблема духа и тела. Мышление и его виды](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_10.md)
 11. [Мышление и его виды. Разумное мышление и наука](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_11.md)
 12. [Разумное мышление и наука](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_12.md)
@@ -26,20 +26,20 @@
 
 и [лекций](https://github.com/noggatur/philosophy/blob/master/Lectures/) различных преподавателей кафедры философии МФТИ:
 
-1. [Проблема Джозефа Нидема](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_1.md) ([Скворчевский К.А.](http://wikimipt.org/wiki/Скворчевский_Константин_Анатольевич))
-2. [Реализм и инструментализм: постановка проблемы](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_2.md) ([Фурсов А.А.](http://istina.msu.ru/profile/a-lexx/))
-3. [Проблемы деятельности исследователя и парадоксы квантовой механики](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_3.md) ([Липкин А.И.](http://www2.rsuh.ru/article.html?id=940520))
-4. [Онтологические аспекты современной космологии](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_4.md) ([Эрекаев В.Д.](http://www.dubinushka.ru/pmes.php?id=423))
-5. [Фрактальная геометрия в современной физике](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_5.md) ([Антонюк П.Н.](http://fn.bmstu.ru/tm-fs-11/79-fn-dep/vych-mat-mat-phys/general/prepods/465-fn11-antonyuk))
-6. [лекция](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_6.md) (здесь и далее [Скворчевский К.А.](http://wikimipt.org/wiki/Скворчевский_Константин_Анатольевич))
-7. [Истина и способы её обоснования](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_7.md)
-8. [Платон и Аристотель о способах доказательства истины](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_8.md)
-9. [Космология Аристотеля](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_9.md)
+1. [Проблема Джозефа Нидема](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_01.md) ([Скворчевский К.А.](http://wikimipt.org/wiki/Скворчевский_Константин_Анатольевич))
+2. [Реализм и инструментализм: постановка проблемы](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_02.md) ([Фурсов А.А.](http://istina.msu.ru/profile/a-lexx/))
+3. [Проблемы деятельности исследователя и парадоксы квантовой механики](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_03.md) ([Липкин А.И.](http://www2.rsuh.ru/article.html?id=940520))
+4. [Онтологические аспекты современной космологии](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_04.md) ([Эрекаев В.Д.](http://www.dubinushka.ru/pmes.php?id=423))
+5. [Фрактальная геометрия в современной физике](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_05.md) ([Антонюк П.Н.](http://fn.bmstu.ru/tm-fs-11/79-fn-dep/vych-mat-mat-phys/general/prepods/465-fn11-antonyuk))
+6. [лекция](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_06.md) (здесь и далее [Скворчевский К.А.](http://wikimipt.org/wiki/Скворчевский_Константин_Анатольевич))
+7. [Истина и способы её обоснования](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_07.md)
+8. [Платон и Аристотель о способах доказательства истины](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_08.md)
+9. [Космология Аристотеля](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_09.md)
 10. [Наука Аристотеля и современная наука](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_10.md)
 11. [лекция](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_11.md)
 12. [лекция](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_12.md)
 13. [лекция](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_13.md)
-14. [Вопросы и ответы к экзамену по философии](https://github.com/noggatur/philosophy/blob/master/Lectures/Questions.md)
+14. [Вопросы и ответы к экзамену по философии](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_14 (Questions).md)
 
 ## Дополнительные материалы:
 - [Звукозаписи лекций и семинаров](https://drive.google.com/open?id=0By-rYPzw7raEampzQ291cWwwcFE)
