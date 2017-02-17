@@ -53,12 +53,12 @@
   + [Ответы](https://github.com/noggatur/philosophy/blob/master/Seminars/Questions.md)
   + [Определения](https://github.com/noggatur/philosophy/blob/master/Seminars/Definitions.md)
 
-## Составители конспектов:
-- [Игорь Поляков](https://vk.com/igor.polyakov)
-- [Василий Кузякин](https://vk.com/id179629971)
-
 ## О процедуре конспектирования
 Документы форматируются разметкой Markdown.
 При наборе полезно обращаться к двум источникам:
 - [Шпаргалка](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet)
 - [Официальный сайт](http://daringfireball.net/projects/markdown/)
+
+## Составители конспектов:
+- [Игорь Поляков](https://vk.com/igor.polyakov)
+- [Василий Кузякин](https://vk.com/id179629971)
