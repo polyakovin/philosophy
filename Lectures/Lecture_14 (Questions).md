@@ -1,4 +1,4 @@
-# Вопросы к контрольной по философии (лекции)
+# Вопросы к контрольной
 
 > [Запись лекции](https://drive.google.com/open?id=0B_ciiYZxHJLSOGw5WUdzUjZXdWM)
 >
