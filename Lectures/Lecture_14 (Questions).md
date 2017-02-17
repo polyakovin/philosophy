@@ -64,6 +64,7 @@
 
 Использовать труды Липкина
 
+Парадоксы квантовой механике см. в [книжке](https://mipt.ru/education/chair/philosophy/upload/fd7/PhilosophyScienceLipkin2007-arpgh9mxfxq.djvu) (с. 388).
 
 ## 5. Методология физики и космологии Аристотеля.
 
