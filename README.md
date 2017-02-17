@@ -27,7 +27,7 @@
 и [лекций](https://github.com/noggatur/philosophy/blob/master/Lectures/) различных преподавателей кафедры философии МФТИ:
 
 1. [Проблема Джозефа Нидема](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_1.md) ([Скворчевский К.А.](http://wikimipt.org/wiki/Скворчевский_Константин_Анатольевич))
-2. [лекция](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_2.md) ([Фурсов А.А.](http://istina.msu.ru/profile/a-lexx/))
+2. [Реализм и инструментализм: постановка проблемы](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_2.md) ([Фурсов А.А.](http://istina.msu.ru/profile/a-lexx/))
 3. [лекция](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_3.md)
 4. [лекция](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_4.md)
 5. [Фрактальная геометрия в современной физике](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_5.md) ([Антонюк П.Н.](http://fn.bmstu.ru/tm-fs-11/79-fn-dep/vych-mat-mat-phys/general/prepods/465-fn11-antonyuk))
