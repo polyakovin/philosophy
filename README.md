@@ -53,7 +53,7 @@
   + [Ответы](https://github.com/noggatur/philosophy/blob/master/Seminars/Questions.md)
   + [Определения](https://github.com/noggatur/philosophy/blob/master/Seminars/Definitions.md)
 
-## О процедуре конспектирования
+## Про разметку
 Документы форматируются разметкой Markdown.
 При наборе полезно обращаться к двум источникам:
 - [Шпаргалка](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet)
