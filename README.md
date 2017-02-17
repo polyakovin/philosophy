@@ -36,7 +36,7 @@
 8. [Платон и Аристотель о способах доказательства истины](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_08.md)
 9. [Космология Аристотеля](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_09.md)
 10. [Наука Аристотеля и современная наука](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_10.md)
-11. [лекция](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_11.md)
+11. [Неоплатонизм](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_11.md)
 12. [лекция](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_12.md)
 13. [лекция](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_13.md)
 14. [Вопросы и ответы к экзамену по философии](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_14 (Questions).md)
