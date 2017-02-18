@@ -31,7 +31,7 @@
 3. [Проблемы деятельности исследователя и парадоксы квантовой механики](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_03.md) ([Липкин А.И.](http://www2.rsuh.ru/article.html?id=940520))
 4. [Онтологические аспекты современной космологии](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_04.md) ([Эрекаев В.Д.](http://www.dubinushka.ru/pmes.php?id=423))
 5. [Фрактальная геометрия в современной физике](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_05.md) ([Антонюк П.Н.](http://fn.bmstu.ru/tm-fs-11/79-fn-dep/vych-mat-mat-phys/general/prepods/465-fn11-antonyuk))
-6. [лекция](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_06.md) (здесь и далее [Скворчевский К.А.](http://wikimipt.org/wiki/Скворчевский_Константин_Анатольевич))
+6. [Решение проблемы Джозефа Нидема](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_06.md) (здесь и далее [Скворчевский К.А.](http://wikimipt.org/wiki/Скворчевский_Константин_Анатольевич))
 7. [Истина и способы её обоснования](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_07.md)
 8. [Платон и Аристотель о способах доказательства истины](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_08.md)
 9. [Космология Аристотеля](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_09.md)
