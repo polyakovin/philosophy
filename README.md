@@ -23,6 +23,11 @@
 11. [Мышление и его виды. Разумное мышление и наука](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_11.md)
 12. [Разумное мышление и наука](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_12.md)
 13. [Вопрос о природе понятий. Проблема общего и отдельного](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_13.md)
+14. [Проблема общего и отдельного философской мысли XX и XXI веков](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_14.md)
+15. [Две формы бытия: бытие в мире самом по себе и бытие в мире для нас. Проблема соотношения чувственного и умственного познания в истории философской мысли](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_15.md)
+16. [От разума чистого к разуму практическому. Проблема свободы и необходимости](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_16.md)
+17. [Кризис материализма на рубеже XVIII–XIX веков](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_17.md)
+18. [Диалектический материализм и решение проблемы материального источника активности мышления](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_18.md)
 
 и [лекций](https://github.com/noggatur/philosophy/blob/master/Lectures/) различных преподавателей кафедры философии МФТИ:
 
