@@ -53,6 +53,18 @@
   + [Ответы](https://github.com/noggatur/philosophy/blob/master/Seminars/Questions.md)
   + [Определения](https://github.com/noggatur/philosophy/blob/master/Seminars/Definitions.md)
 - [Материалы для подготовки к контрольной](https://vk.com/docs?oid=-35423597)
+- [Вопросы к кандидатскому экзамену](Вопросы к кандидатскому экзамену.md)
+  + [Основные вопросы](https://mipt.ru/education/chair/philosophy/exams/voprosy1.php)
+    * [Ответы](Ответы на вопросы из списка 1.md)
+  + [Вопросы по курсу Семёнова Ю.И.](https://pp.userapi.com/c639917/v639917643/3f02c/G8AOFaOiBmA.jpg)
+    * [Ответы](Ответы на вопросы из списка 2.md)
+  + [Вопросы по курсу Скворчевского К.А.](https://mipt.ru/education/chair/philosophy/exams/q2_skvor4evsky.php)
+    * [Ответы](Ответы на вопросы из списка 3.md)
+- Другие материалы для подготовки кандидатскому экзамену
+  + [Архив с ответами](https://vk.com/doc62339817_444936832?hash=d78354c879e48545e3&dl=5a9034f70ef92c16a3)
+  + [Набор документов](https://vk.com/docs?oid=-35423597)
+  + [Конспект](https://vk.com/doc24929554_437528491?hash=37406195fa7d87f0b3&dl=3ae3bac23b9e1a7bbf) [Романа Зайцева](https://vk.com/z_rommel) и [Инны Мартыновой](https://vk.com/id226349649) лекций Скворчевского К.А.
+  + [Ответы на вопросы к курсу Семёнова Ю.И.](https://vk.com/doc179629971_445889640?hash=4081890d12aac4ab93&dl=00e17d832af871b84a)
 
 ## Про разметку
 Документы форматируются разметкой Markdown.
