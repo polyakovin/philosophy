@@ -28,6 +28,8 @@
 16. [От разума чистого к разуму практическому. Проблема свободы и необходимости](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_16.md)
 17. [Кризис материализма на рубеже XVIII–XIX веков](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_17.md)
 18. [Диалектический материализм и решение проблемы материального источника активности мышления](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_18.md)
+19. [Проблема предопределённости и неопределённости. Относительный детерминизм](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_19.md)
+20. [Проблема свободы и необходимости](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_19.md)
 
 и [лекций](https://github.com/noggatur/philosophy/blob/master/Lectures/) различных преподавателей кафедры философии МФТИ:
 
