@@ -1,2 +1,2 @@
-> [Запись семинара](https://drive.google.com/open?id=0B_ciiYZxHJLSd1o3VVhMM3hGZDQ)
+> [Запись семинара](https://drive.google.com/open?id=0By-rYPzw7raEY0tpcFdva2FMMjg)
 

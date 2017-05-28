@@ -1,4 +1,4 @@
-> [Запись семинара]()
+> [Запись семинара](https://drive.google.com/open?id=0B_ciiYZxHJLSUmhkNVBpNXhFV2c)
 
 # Семинар 20
 
