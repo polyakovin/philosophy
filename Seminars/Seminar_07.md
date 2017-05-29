@@ -1,6 +1,7 @@
-# Условные рефлексы
-
 > [Запись семинара](https://drive.google.com/open?id=0B_ciiYZxHJLSbl84VVJKRGFCVHc)
+
+
+# Условные рефлексы
 
 __... пропущена часть ...__
 

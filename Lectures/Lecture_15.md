@@ -1,5 +1,6 @@
 > [Запись семинара](https://drive.google.com/open?id=0B_ciiYZxHJLSQkhnQXdBc2pUTHM)
 
+
 # Лекция 15
 
 ## Другие ответы на проблему Нидема.
