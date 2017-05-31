@@ -30,7 +30,8 @@
 18. [Диалектический материализм и решение проблемы материального источника активности мышления](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_18.md)
 19. [Проблема предопределённости и неопределённости. Относительный детерминизм](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_19.md)
 20. [Проблема свободы и необходимости. Создание чувство-умозримого мира для нас как воспроизведение объективного мира самого по себе](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_20.md)
-21. [Факт как исходная теория разумного мышления](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_21.md)
+21. [Факт как исходная теория разумного мышления. Понимание и объяснение фактов](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_21.md)
+22. [Идея. Проблема. Интуиция](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_22.md)
 
 
 и [лекций](https://github.com/noggatur/philosophy/blob/master/Lectures/) различных преподавателей кафедры философии МФТИ:
