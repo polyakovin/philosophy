@@ -32,6 +32,8 @@
 20. [Проблема свободы и необходимости. Создание чувство-умозримого мира для нас как воспроизведение объективного мира самого по себе](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_20.md)
 21. [Факт как исходная теория разумного мышления. Понимание и объяснение фактов](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_21.md)
 22. [Идея. Проблема. Интуиция](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_22.md)
+23. [Виды холизации](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_23.md)
+24. [Проблема научного знания, философии и естествознания в XVII–XX веках. Факт. Идея. Гипотеза. Теория](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_24.md)
 
 
 и [лекций](https://github.com/noggatur/philosophy/blob/master/Lectures/) различных преподавателей кафедры философии МФТИ:
