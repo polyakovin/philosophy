@@ -2,7 +2,7 @@
 >
 > 5 ноября 2016 г.
 >
-> [Запись лекции](https://drive.google.com/open?id=0B_ciiYZxHJLSZE1FSk5FVThxc0k) / [Расшифровка записи](Lecture_06 (Transcript).md)
+> [Запись лекции](https://drive.google.com/open?id=0B_ciiYZxHJLSZE1FSk5FVThxc0k) / [Расшифровка записи](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_06_Transcript.md)
 
 
 # Решение проблемы Джозефа Нидема

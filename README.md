@@ -34,6 +34,9 @@
 22. [Идея. Проблема. Интуиция](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_22.md)
 23. [Виды холизации](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_23.md)
 24. [Проблема научного знания, философии и естествознания в XVII–XX веках. Факт. Идея. Гипотеза. Теория](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_24.md)
+25. [](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_25.md)
+26. [](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_26.md)
+27. [](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_27.md)
 
 
 и [лекций](https://github.com/noggatur/philosophy/blob/master/Lectures/) различных преподавателей кафедры философии МФТИ:
@@ -51,7 +54,16 @@
 11. [Неоплатонизм](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_11.md)
 12. [Появление христианства. Треугольник Августина](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_12.md)
 13. [Научная революция нового времени](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_13.md)
-14. [Вопросы и ответы к контрольной по лекциям](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_14%20(Questions).md)
+14. [Вопросы и ответы к контрольной по лекциям](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_14_Questions.md)
+15. [](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_15.md)
+16. [](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_16.md)
+17. [](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_17.md)
+18. [](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_18.md)
+19. [](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_19.md)
+20. [](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_20.md)
+21. [](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_21.md)
+22. [](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_22.md)
+23. [](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_23.md)
 
 ## Дополнительные материалы:
 - [Звукозаписи лекций и семинаров](https://drive.google.com/open?id=0By-rYPzw7raEampzQ291cWwwcFE)

@@ -1,6 +1,6 @@
 # Вопросы к контрольной и ответы на них
 
-> [Короче](Q&A (Short).md)
+> [Короче](https://github.com/noggatur/philosophy/blob/master/Lectures/Q&A_Short.md)
 >
 > [Альтернативные ответы](https://vk.com/docs?oid=-35423597)
 
