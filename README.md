@@ -80,6 +80,7 @@
 - [Вопросы к кандидатскому экзамену](https://github.com/noggatur/philosophy/blob/master/Вопросы%20к%20кандидатскому%20экзамену.md)
   + [Основные вопросы](https://mipt.ru/education/chair/philosophy/exams/voprosy1.php)
     * [Ответы](https://github.com/noggatur/philosophy/blob/master/Ответы%20на%20вопросы%20из%20списка%201.md)
+    * [Альтернативные ответы (типа шпора)](https://vk.com/doc125936391_446063547?hash=336153063c047d1989&dl=12dc55de2551a54c4c)
   + [Вопросы по курсу Семёнова Ю.И.](https://pp.userapi.com/c639917/v639917643/3f02c/G8AOFaOiBmA.jpg)
     * [Ответы](https://github.com/noggatur/philosophy/blob/master/Ответы%20на%20вопросы%20из%20списка%202.md)
   + [Вопросы по курсу Скворчевского К.А.](https://mipt.ru/education/chair/philosophy/exams/q2_skvor4evsky.php)
