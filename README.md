@@ -63,7 +63,6 @@
 20. [](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_20.md)
 21. [](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_21.md)
 22. [](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_22.md)
-23. [](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_23.md)
 
 
 ## Дополнительные материалы:
