@@ -1,6 +1,6 @@
 > [Запись лекции](https://drive.google.com/open?id=0B_ciiYZxHJLSOGw5WUdzUjZXdWM)
 >
-> [Ответы на вопросы](https://github.com/noggatur/philosophy/blob/master/Lectures/Q&A.md)
+> [Ответы на вопросы](https://github.com/noggatur/philosophy/blob/master/Lectures/Q&A_0.md)
 
 
 # Вопросы к контрольной

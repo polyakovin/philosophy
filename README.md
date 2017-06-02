@@ -1,11 +1,13 @@
 # История и философия науки
 
+
 ## Дисклеймер
 Конспекты содержат материал, основанный на лекциях по истории и философии науки, [записанных](https://drive.google.com/open?id=0By-rYPzw7raEampzQ291cWwwcFE) их слушателями.
 Поскольку людям (коими являются лектора и их слушатели) свойственно ошибаться, то этот материал стоит воспринимать с осторожностью, а его истинность ставить под сомнение.
 
 Тем не менее, авторы конспектов старались отразить суть предмета максимально верно и лаконично благодаря многочисленной проработке материала.
 Поэтому если у читателей конспекта появятся пожелания к улучшению или дополнению конспектов, то мы им за это очень благодарны и просим внести соответствующие корректировки в копии проекта (fork) и предложить свои изменения (pull request).
+
 
 ## Содержание
 В этом проекте приведены конспекты [семинарских занятий](https://github.com/noggatur/philosophy/blob/master/Seminars/) к.ф.н., д.и.н., проф. [Семёнова Ю.И.](https://ru.wikipedia.org/wiki/Семёнов,_Юрий_Иванович) (галочкой отмечены конспекты, проверенные автором):
@@ -37,7 +39,6 @@
 25. [Концепция теоретической нагруженности фактов. Объективность истины](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_25.md)
 26. [Диалектика истины](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_26.md)
 
-
 и [лекций](https://github.com/noggatur/philosophy/blob/master/Lectures/) различных преподавателей кафедры философии МФТИ:
 
 1. [Проблема Джозефа Нидема](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_01.md) ([Скворчевский К.А.](http://wikimipt.org/wiki/Скворчевский_Константин_Анатольевич))
@@ -64,39 +65,42 @@
 22. [](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_22.md)
 23. [](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_23.md)
 
+
 ## Дополнительные материалы:
 - [Звукозаписи лекций и семинаров](https://drive.google.com/open?id=0By-rYPzw7raEampzQ291cWwwcFE)
 - _Семенов Ю.И._ Введение в науку философии. Книга 1. Предмет философии, ее основные понятия и место в системе  человеческого знания. — М., Издательство URSS. 2013; 2015.
 - _Семенов Ю.И._ Введение в науку философии. Книга 2. Вечные проблемы философии. — М., Издательство URSS. 2013; 2015.
 - [Конспект лекций по философии науки, прочитанных Ю.И. Семёновым в 2005–2006 учебном году для 5-го курса](https://philosophy.ivlis.com/)
-- [Статьи Ю.И. Семёнова из научно-просветительского журнала "Скепсис"](http://scepsis.net/authors/id_8.html)
+- [Статьи Ю.И. Семёнова из научно-просветительского журнала «Скепсис»](http://scepsis.net/authors/id_8.html)
   + [К вопросу о рассудке и разуме](http://scepsis.net/library/id_426.html)
   + [Некоторые статьи на сайте МФТИ](https://mipt.ru/education/chair/philosophy/publications/works/semenov/)
-- [Вопросы к зачёту по семинарам Семёнова Ю.И.](https://mipt.ru/education/chair/philosophy/exams/asp_fachet/zach_semenov.php)
-  + [Ответы](https://github.com/noggatur/philosophy/blob/master/Seminars/Q&A_0.md)
-  + [Определения](https://github.com/noggatur/philosophy/blob/master/Definitions.md)
-- [Вопросы к контрольной по лекциям Скворчевского К.А.](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_14_Questions.md)
-  + [Ответы](https://github.com/noggatur/philosophy/blob/master/Lectures/Q&A_0.md)
-  + [Ответы кратко](https://github.com/noggatur/philosophy/blob/master/Lectures/Q&A_0_Short.md)
-- [Вопросы к кандидатскому экзамену](https://github.com/noggatur/philosophy/blob/master/Questions.md)
-  + [Основные вопросы](https://mipt.ru/education/chair/philosophy/exams/voprosy1.php)
-    * [Ответы](https://github.com/noggatur/philosophy/blob/master/Seminars/Q&A_1.md)
-    * [Альтернативные ответы (типа шпора)](https://vk.com/doc125936391_446063547?hash=336153063c047d1989&dl=12dc55de2551a54c4c)
-  + [Вопросы по курсу Семёнова Ю.И.](https://pp.userapi.com/c639917/v639917643/3f02c/G8AOFaOiBmA.jpg)
-    * [Ответы](https://github.com/noggatur/philosophy/blob/master/Seminars/Q&A_2.md)
-  + [Вопросы по курсу Скворчевского К.А.](https://mipt.ru/education/chair/philosophy/exams/q2_skvor4evsky.php)
-    * [Ответы](https://github.com/noggatur/philosophy/blob/master/Lectures/Q&A_1.md)
-- Другие материалы для подготовки кандидатскому экзамену
-  + [Архив с ответами](https://vk.com/doc62339817_444936832?hash=d78354c879e48545e3&dl=5a9034f70ef92c16a3)
-  + [Набор документов](https://vk.com/docs?oid=-35423597)
-  + [Конспект](https://vk.com/doc24929554_437528491?hash=37406195fa7d87f0b3&dl=3ae3bac23b9e1a7bbf) [Романа Зайцева](https://vk.com/z_rommel) и [Инны Мартыновой](https://vk.com/id226349649) лекций Скворчевского К.А.
-  + [Ответы на вопросы к курсу Семёнова Ю.И.](https://vk.com/doc179629971_445889640?hash=4081890d12aac4ab93&dl=00e17d832af871b84a)
+- Вопросы по философии и ответы на них
+  + [Зачёт по семинарам Семёнова Ю.И.](https://mipt.ru/education/chair/philosophy/exams/asp_fachet/zach_semenov.php)
+    * [Ответы](https://github.com/noggatur/philosophy/blob/master/Seminars/Q&A_0.md)
+    * [Определения](https://github.com/noggatur/philosophy/blob/master/Definitions.md)
+  + [Контрольная по лекциям Скворчевского К.А.](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_14_Questions.md)
+    * [Ответы](https://github.com/noggatur/philosophy/blob/master/Lectures/Q&A_0_Short.md)
+  + [Кандидатский экзамен](https://github.com/noggatur/philosophy/blob/master/Questions.md)
+    * [Основные вопросы](https://mipt.ru/education/chair/philosophy/exams/voprosy1.php)
+      - [Ответы](https://github.com/noggatur/philosophy/blob/master/Seminars/Q&A_1.md)
+      - [Альтернативные ответы (типа шпора)](https://vk.com/doc125936391_446063547?hash=336153063c047d1989&dl=12dc55de2551a54c4c)
+    * [Вопросы по курсу Семёнова Ю.И.](https://pp.userapi.com/c639917/v639917643/3f02c/G8AOFaOiBmA.jpg)
+      - [Ответы](https://github.com/noggatur/philosophy/blob/master/Seminars/Q&A_2.md)
+    * [Вопросы по курсу Скворчевского К.А.](https://mipt.ru/education/chair/philosophy/exams/q2_skvor4evsky.php)
+      - [Ответы](https://github.com/noggatur/philosophy/blob/master/Lectures/Q&A_1.md)
+  + Дополнительные материалы для подготовки кандидатскому экзамену
+    * [Архив с ответами](https://vk.com/doc62339817_444936832?hash=d78354c879e48545e3&dl=5a9034f70ef92c16a3)
+    * [Набор документов](https://vk.com/docs?oid=-35423597)
+    * [Конспект](https://vk.com/doc24929554_437528491?hash=37406195fa7d87f0b3&dl=3ae3bac23b9e1a7bbf) [Романа Зайцева](https://vk.com/z_rommel) и [Инны Мартыновой](https://vk.com/id226349649) лекций Скворчевского К.А.
+    * [Ответы на вопросы к курсу Семёнова Ю.И.](https://vk.com/doc179629971_445889640?hash=4081890d12aac4ab93&dl=00e17d832af871b84a)
+
 
 ## Про разметку
 Документы форматируются разметкой Markdown.
 При наборе полезно обращаться к двум источникам:
 - [Шпаргалка](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet)
 - [Официальный сайт](http://daringfireball.net/projects/markdown/)
+
 
 ## Составители конспектов:
 - [Игорь Поляков](https://vk.com/igor.polyakov)
