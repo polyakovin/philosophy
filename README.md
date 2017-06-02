@@ -34,7 +34,7 @@
 22. [Идея. Проблема. Интуиция](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_22.md)
 23. [Виды холизации](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_23.md)
 24. [Проблема научного знания, философии и естествознания в XVII–XX веках. Факт. Идея. Гипотеза. Теория](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_24.md)
-25. [](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_25.md)
+25. [Концепция теоретической нагруженности фактов. Объективность истины](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_25.md)
 26. [](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_26.md)
 27. [](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_27.md)
 
