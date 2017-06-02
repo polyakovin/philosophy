@@ -13,7 +13,7 @@
 1. [Предмет философии, её основные понятия и место в системе человеческого знания](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_01.md) &#10003;
 2. [Главные и дополнительные направления философии](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_02.md)
 3. [Философия и религия](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_03.md)
-4. [Филосовские проблемы](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_04.md)
+4. [Философские проблемы](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_04.md)
 5. [Проблема материального и идеального](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_05.md)
 6. [Теория "символов" Германа Гельмгольца и иероглифический материализм](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_06.md)
 7. [Условные рефлексы. Сущность биоидеального](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_07.md)
@@ -36,7 +36,6 @@
 24. [Проблема научного знания, философии и естествознания в XVII–XX веках. Факт. Идея. Гипотеза. Теория](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_24.md)
 25. [Концепция теоретической нагруженности фактов. Объективность истины](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_25.md)
 26. [Диалектика истины](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_26.md)
-27. [](https://github.com/noggatur/philosophy/blob/master/Seminars/Seminar_27.md)
 
 
 и [лекций](https://github.com/noggatur/philosophy/blob/master/Lectures/) различных преподавателей кафедры философии МФТИ:
