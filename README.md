@@ -56,7 +56,7 @@
 13. [Научная революция нового времени](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_13.md)
 14. [Вопросы и ответы к контрольной по лекциям](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_14_Questions.md)
 15. [Активное развитие науки в Европе в XVII–XIX веках](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_15.md)
-16. [](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_16.md)
+16. [Предметный кризис философии. Появление первого позитивизма](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_16.md)
 17. [](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_17.md)
 18. [](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_18.md)
 19. [](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_19.md)
