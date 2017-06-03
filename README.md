@@ -59,7 +59,7 @@
 16. [Предметный кризис философии. Появление первого позитивизма](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_16.md)
 17. [Первый и второй позитивизм](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_17.md)
 18. [Неопозитивизм](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_18.md)
-19. [](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_19.md)
+19. [Роль концепции Людвига Витгенштейна в развитии логического позитивизма](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_19.md)
 20. [](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_20.md)
 21. [](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_21.md)
 22. [](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_22.md)
