@@ -1,0 +1,25 @@
+{
+  "name": "philosophy",
+  "version": "1.0.0",
+  "description": "philosophy lectures and seminars abstaracts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noggatur/philosophy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noggatur/philosophy/issues"
+  },
+  "homepage": "https://github.com/noggatur/philosophy#readme",
+  "dependencies": {
+    "dateformat": "^2.0.0",
+    "github-markdown-css": "^2.6.0",
+    "markdown-pdf": "^8.0.0",
+    "markdown-toc": "^1.1.0"
+  }
+}
