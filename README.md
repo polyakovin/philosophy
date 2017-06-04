@@ -83,7 +83,7 @@
     * [Ответы](https://github.com/noggatur/philosophy/blob/master/Seminars/Q&A_0.md)
     * [Определения](https://github.com/noggatur/philosophy/blob/master/Definitions.md)
   + [Контрольная по лекциям Скворчевского К.А.](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_14_Questions.md)
-    * [Ответы](https://github.com/noggatur/philosophy/blob/master/Lectures/Q&A_0_Short.md)
+    * [Ответы](https://github.com/noggatur/philosophy/blob/master/Lectures/Q&A_0.md)
   + [Кандидатский экзамен](https://github.com/noggatur/philosophy/blob/master/Questions.md)
     * [Основные вопросы](https://mipt.ru/education/chair/philosophy/exams/voprosy1.php)
       - [Ответы](https://github.com/noggatur/philosophy/blob/master/Seminars/Q&A_1.md)
