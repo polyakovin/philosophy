@@ -67,6 +67,10 @@
 
 ## Дополнительные материалы:
 - [Звукозаписи лекций и семинаров](https://drive.google.com/open?id=0By-rYPzw7raEampzQ291cWwwcFE)
+- Видеозаписи
+  + [Лекции по философии](https://www.youtube.com/playlist?list=PLLqviYgbWIrg6P6hB7Hpl7SwjedWZ9FKh)
+  + [Лекции Скворчевского К.А. 2012–2013](https://www.youtube.com/playlist?list=PLLqviYgbWIrh_z-VRjdez-afF3izqvIxh)
+  + [Семинары Скворчевского К.А. 2012–2013](https://www.youtube.com/playlist?list=PLLqviYgbWIrjjwHwkYFVD4mD_Iu7KGM2n)
 - _Семенов Ю.И._ Введение в науку философии. Книга 1. Предмет философии, ее основные понятия и место в системе  человеческого знания. — М., Издательство URSS. 2013; 2015.
 - _Семенов Ю.И._ Введение в науку философии. Книга 2. Вечные проблемы философии. — М., Издательство URSS. 2013; 2015.
 - [Философия науки. Под ред. А.И. Липкина](https://mipt.ru/education/chair/philosophy/textbooks/uchebnikonline/uchebnik.php) — коллективный труд кафедры философии МФТИ
@@ -84,6 +88,7 @@
     * [Основные вопросы](https://mipt.ru/education/chair/philosophy/exams/voprosy1.php)
       - [Ответы](https://github.com/noggatur/philosophy/blob/master/Seminars/Q&A_1.md)
       - [Альтернативные ответы (типа шпора)](https://vk.com/doc125936391_446063547?hash=336153063c047d1989&dl=12dc55de2551a54c4c)
+      - [Ещё одни ответы](https://vk.com/doc3219805_445810610?hash=85bfb737621594c6fc&dl=0362e2134dad4bfdd6) и [тот же вариант, но с увеличенным шрифтом](https://vk.com/doc3219805_445810617?hash=ed43ee67457f19f261&dl=88da88cb7365279050)
     * [Вопросы по курсу Семёнова Ю.И.](https://pp.userapi.com/c639917/v639917643/3f02c/G8AOFaOiBmA.jpg)
       - [Ответы](https://github.com/noggatur/philosophy/blob/master/Seminars/Q&A_2.md)
     * [Вопросы по курсу Скворчевского К.А.](https://mipt.ru/education/chair/philosophy/exams/q2_skvor4evsky.php)
