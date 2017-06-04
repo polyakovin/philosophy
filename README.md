@@ -62,7 +62,7 @@
 19. [Роль концепции Витгенштейна в развитии логического позитивизма](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_19.md)
 20. [Вклад работ Куайна и философии языка Витгенштейна в критику неопозитивизма. Концепция научных революций Томаса Куна](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_20.md)
 21. [Концепция развития науки Поппера. Принцип фальсификации. Идея «третьего мира». Концепция роста научного знания Лакатоса](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_21.md)
-22. [](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_22.md)
+22. [«Гносеологический анархизм» Фейерабенда. Развитие основных направлений философии науки и аналитической философии во второй половине XX века](https://github.com/noggatur/philosophy/blob/master/Lectures/Lecture_22.md)
 
 
 ## Дополнительные материалы:
@@ -93,6 +93,7 @@
     * [Набор документов](https://vk.com/docs?oid=-35423597)
     * [Конспект](https://vk.com/doc24929554_437528491?hash=37406195fa7d87f0b3&dl=3ae3bac23b9e1a7bbf) [Романа Зайцева](https://vk.com/z_rommel) и [Инны Мартыновой](https://vk.com/id226349649) лекций Скворчевского К.А.
     * [Ответы на вопросы к курсу Семёнова Ю.И.](https://vk.com/doc179629971_445889640?hash=4081890d12aac4ab93&dl=00e17d832af871b84a)
+    * [Канал "Philoso FAQ" на YouTube](https://www.youtube.com/channel/UCcI_jpAZtOsdlKV_AEqxcVw/videos)
 
 
 ## Про разметку
