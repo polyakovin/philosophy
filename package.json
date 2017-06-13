@@ -18,8 +18,6 @@
   "homepage": "https://github.com/noggatur/philosophy#readme",
   "dependencies": {
     "dateformat": "^2.0.0",
-    "github-markdown-css": "^2.6.0",
-    "markdown-pdf": "^8.0.0",
-    "markdown-toc": "^1.1.0"
+    "markdown-pdf": "^8.0.0"
   }
 }
